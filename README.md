@@ -1,2 +1,1 @@
-# DAILY-CHALLENGE-2
-CHALLENGE IS TO CODE C++ DAILY{from basic }
+
