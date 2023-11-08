@@ -3,21 +3,19 @@ using namespace std;
 class profile
 {
   public:
- 
   string name;
-   int id;	
-  
+  int id;	
   void printname();
-  
-  void print_name()
-  {
+ 
+   void print_name()
+   {
   	cout<<"name is:"<<name;
-  }
+   }
 };
 
 void profile::printname()
 {
-	cout<<"Id is:"  <<id;
+cout<<"Id is:"  <<id;
 }
 int main()
 { 	 
