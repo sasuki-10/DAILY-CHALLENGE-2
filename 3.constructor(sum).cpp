@@ -7,8 +7,7 @@ class sum
 		{
 			int c;
 			c=a+b;
-			cout<<"sum is:"<<c;
-			
+			cout<<"sum is:"<<c;	
 		}
 		
 };
