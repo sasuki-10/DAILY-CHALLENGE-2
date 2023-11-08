@@ -17,7 +17,7 @@ int main()
     
         cout<<"\n ENTER YOUR CHOICE:";
         cin>>choice;
-        
+        // switch case for detecting exact condition....
         switch(choice)
         {
            case 1:
@@ -40,6 +40,7 @@ int main()
             total=money+depo_money;
            cout<<"\n   TOTAL BALANCE IS:   "<<total;
            break;
+           
            case 4:
            cout<<"TOTAL MONEY TO WITHDRAW:";
            cin>>wd_money;
