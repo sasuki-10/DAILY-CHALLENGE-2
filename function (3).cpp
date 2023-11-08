@@ -6,6 +6,5 @@ int main()
     int x = 20;
     fun(&x);
     cout << "x = " << x;
- 
     return 0;
 }
