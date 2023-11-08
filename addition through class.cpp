@@ -13,6 +13,5 @@ class addition
 {
     addition tr;
     tr.set_sum(10,2);
-    cout<<tr.sum<<endl;
-    
+    cout<<tr.sum<<endl;  
 }
