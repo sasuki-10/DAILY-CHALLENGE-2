@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
-void printMin(int arr[5]);
+void print_Min(int arr[5]);
 int main()
 {
     int ar[5] = { 30, 10, 20, 40, 50 };
-    printMin(ar); // passing array to function
+    print_Min(ar); // passing array to function
 }
-void printMin(int arr[5])
+void print_Min(int arr[5])
 {
     int min = arr[0];
     for (int i = 0; i < 5; i++) {
