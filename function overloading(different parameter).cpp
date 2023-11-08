@@ -14,7 +14,6 @@ class add{
 			d=a+b+c;
 			cout<<"sum of 2nd function:"<<d;
 		}
-	
 };
 int main()
 {
