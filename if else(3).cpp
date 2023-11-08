@@ -7,8 +7,7 @@ int main()
 	cin>>num;
 	if(num%2==0)
 	{
-	 cout<<"number is even";
-	 	
+	 cout<<"number is even"; 	
 	}
 	else
 	{
