@@ -8,6 +8,7 @@ class A
 		   cout<<"C++";// std::cout if "using namespace" not written
 		}
 };
+
 int main()
 {
 	A obj;                  //object invoked
