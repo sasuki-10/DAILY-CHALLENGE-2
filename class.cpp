@@ -5,7 +5,7 @@ class person
 	char name[50];
 	int age;
 	
-	  public:
+	public:
 		void getdata();
 		void display();
 		
