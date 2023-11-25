@@ -1,5 +1,7 @@
 #include<iostream>
+
 using namespace std;
+
 inline float mul(float x,float y)
 {
 	return(x*y);
