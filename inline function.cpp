@@ -9,8 +9,7 @@ inline float mul(float x,float y)
 
 inline double div(double p,double q)
 {
-	
-	return (p/q);
+    return (p/q);
 }
 
 int main()
