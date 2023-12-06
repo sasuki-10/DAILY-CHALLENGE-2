@@ -10,10 +10,10 @@ int main()
       cin>>arr1[i];
    }
 	
-cout<<"*********************FOR DISPLAYING***************";
+ cout<<"*********************FOR DISPLAYING***************";
 
 for(i=4;i>=0;i--)
     {
-	cout<<arr1[i]<<endl;
+    cout<<arr1[i]<<endl;
     }
 }
