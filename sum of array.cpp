@@ -6,7 +6,8 @@ int main()
  int arr2[5];
  int i,sum1=0,sum2=0;
 
-  cout<<"First array elements are:";
+ cout<<"First array elements are:";
+
  for(i=0;i<=4;i++)
  {
  	cin>>arr1[i];
@@ -18,12 +19,12 @@ int main()
 /*FOR ARRAY 2nd*/
 
  cout<<"Second array elements are:";
+
  for(i=0;i<=4;i++)
  {
-  	cin>>arr2[i];
+  	 cin>>arr2[i];
  	  sum2=sum2+arr2[i];
  }
  
   cout<<"\nSum of second array:"<<sum2<<endl;
- 
 }
