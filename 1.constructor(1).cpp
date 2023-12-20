@@ -5,8 +5,8 @@ class A
   public:
 	 A()                  //same name of class  {default constructor}
 	{
-		   cout<<"C++";// std::cout if "using namespace" not written
-		}
+	cout<<"C++";// std::cout if "using namespace" not written
+	}
 };
 
 int main()
