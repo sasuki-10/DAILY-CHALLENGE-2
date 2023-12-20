@@ -11,5 +11,5 @@ class A
 
 int main()
 {
-	A obj;                  //object invoked
+  A obj;                  //object invoked
 }
