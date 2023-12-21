@@ -3,7 +3,7 @@
 using namespace std;
 int threadfn()
 {
-	cout<<"My thread";
+  cout<<"My thread";
 }
 int main()
 {
