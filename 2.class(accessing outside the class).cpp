@@ -17,6 +17,7 @@ void profile::printname()
 {
 cout<<"Id is:"  <<id;
 }
+
 int main()
 { 	 
 profile tr;
